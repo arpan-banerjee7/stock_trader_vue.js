@@ -1,6 +1,10 @@
 # vue-cli
 
-> A Vue.js project
+> A stock trading application built using Vue.js. 
+### Uses `vue-router`, `vue-resource` and `vuex state management`.
+
+
+![](app_img.JPG)
 
 ## Build Setup
 
@@ -15,4 +19,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
